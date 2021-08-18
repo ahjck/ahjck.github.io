@@ -1,37 +1,48 @@
 # Welcome to ahjck 的主页
 
-You can use the [editor on GitHub](https://github.com/ahjck/ahjck.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## *  	报 批 流 程           *
 
-```markdown
-Syntax highlighted code block
+1. 申领运单号。
+    个人业务->客户->(客户名称）->新建报批单
+2. 在“正文”，“从属费用”，”供货信息“，”直接费用“填入相关内容。
+3. 提交前，生成备注。打印预览一下。
+4. 提交申请，走入审批程序。
+5. 报批通过后，可以生成外销合同和明细单。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## *  货  款  付  款  流  程          *
 
-[Link](url) and ![Image](src)
-```
+1. 报批完后，生成外销合同，提交审批；生成明细单，提交审批。
+2. 点击工厂，新建采购合同，上传合同。
+3. 在“出口单据上传”处上传提单和预录单。
+4. 带着全套单据（付款申请，发票，预录单，结汇水单，报批单），先去贸管部交纸质合同原件。签付款封面。
+5. 运输部签付款封面。
+6. 财务签发票，和交预录单。然后，全套付款单据放核算员处。
+7. 办公室操作付款申请（工厂名称->运单号->货款承付）。
+8. 运输部通过后，催核算员和财务处长通过。
+9. 付款成功。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahjck/ahjck.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## *      核   付   运   费	           *
 
-## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 货代信息。
+2. “业务员运费”
+3. 新增。
+4. 进口的运费放在国内付款中。然后有一个付款用途，在这里说明。
+
+
+
+## *  结 汇 认 领                        *
+
+1. 结汇信息=>未名款
+2. 认领理由：运单号写入后=>我要认领
+3. 
+
+
